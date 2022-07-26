@@ -1,6 +1,6 @@
 # Hello there fellow developer 👋, Atharv Bhadange here
 ### Competitive Programmer and Flutter Developer
-A Sophomore @Pune Institute of Computer Technology, Pune.
+Pre-Final Year Student @Pune Institute of Computer Technology, Pune.
 
 ## Skills: 
 
