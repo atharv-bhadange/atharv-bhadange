@@ -1,20 +1,19 @@
-# Hello there fellow developer 👋, Atharv Bhadange here
+# Hello there fellow developer 👋
 ### Competitive Programmer and Flutter Developer
 Pre-Final Year Student @Pune Institute of Computer Technology, Pune.
 
 ## Skills: 
 
 * ❤️ Competitve Programming
-* 🤓 C++
 * 📱 Flutter
+* $ Golang
 * 🖼️ Photoshop
 * 📸 Photography 
 
 ## Experience
 
-- 🔭 I’m currently working on a cool application 
-- 🌱 I’m currently learning Flutter development 
-
+- Flutter Developer
+- Golang Backend Developer 
 
 
 *Feel free to chat with me here:* 
