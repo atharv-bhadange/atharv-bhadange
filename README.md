@@ -76,4 +76,6 @@ Final Year Student @Pune Institute of Computer Technology, Pune.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atharv-bhadange&show_icons=true)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv-bhadange&label=Profile%20views&color=ADD8E6&style=flat-square" alt="mundadapurva" /> </p>
  
