@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Go REST API Boilerplate](https://medium.com/@bhadange.atharv/go-rest-api-boilerplate-c9d25f99acbe?source=rss-440eb7c323c6------2)
+- [Multi-Node Setup using Citus](https://medium.com/@bhadange.atharv/citus-multi-node-setup-69c900754da3?source=rss-440eb7c323c6------2)
+- [Sharding PostgreSQL with Citus and Golang on GoFiber](https://medium.com/@bhadange.atharv/sharding-postgresql-with-citus-and-golang-on-gofiber-21a0ef5efb30?source=rss-440eb7c323c6------2)
+- [Building a Real-Time Chat Application with gRPC and Go](https://medium.com/@bhadange.atharv/building-a-real-time-chat-application-with-grpc-and-go-aa226937ad3c?source=rss-440eb7c323c6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
